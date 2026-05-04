@@ -1,0 +1,1 @@
+Welcome to a repository dedicated to comic books. Available to all, the goal is to preserve and curate the data in a meaningful and accessible format. The repository is updated bi-weekly, and only contains information regarding Marvel Comics and DC Comics.
