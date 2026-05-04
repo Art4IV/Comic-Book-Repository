@@ -1,1 +1,1 @@
-The data consists of 5 types of metadata that must be addressed for each submission to the repository. These include: Character 
+The data consists of 5 types of metadata that must be addressed for each submission to the repository. These include: Title, Publisher, Author, Illustrator, and Issue Number. The data is accessed via a MySQL query and there's a table with all of the data listed for easier viewing.
